@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8B4E8B95-B450-4D1E-BB40-A9CD9AAA14C0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB28B076-140C-48F2-9053-9355746DA4BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BayrakOyunu/OyunEkraniViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "soruYukle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB28B076-140C-48F2-9053-9355746DA4BD - 867166633fb0a0e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BayrakOyunu.OyunEkraniViewController.soruYukle() -&gt; ()"
+                  moduleName = "BayrakOyunu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/BayrakOyunu/BayrakOyunu/OyunEkraniViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1532">
+               </Location>
+               <Location
+                  uuid = "DB28B076-140C-48F2-9053-9355746DA4BD - 867166633fb0a0cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BayrakOyunu.OyunEkraniViewController.soruYukle() -&gt; ()"
+                  moduleName = "BayrakOyunu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/BayrakOyunu/BayrakOyunu/OyunEkraniViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70C3A402-7BDD-439C-B2C0-FD04F94BA71B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BayrakOyunu/OyunEkraniViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "soruYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BBBB0CD-89F2-4BB9-87FE-691C3B653009"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BayrakOyunu/OyunEkraniViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "soruYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
